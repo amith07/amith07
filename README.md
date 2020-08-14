@@ -2,6 +2,8 @@
 
 You can stalk me here! xD
 
+I'm just learning new stuff with the help of [bunnyy](https://github.com/bunnyyTheRuinous) and [Niteshkumar](https://github.com/niteshkumar2000) ❤️❤️
+
 <a href="https://twitter.com/amithacharya_">
   <img align="left" alt="Amith Acharya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amith</h1>
-<h3 align="center">A CSE student and a tech enthusiast</h3>
+<h3 align="center">A CSE student and a Tech Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amith07&label=Profile%20views&color=0e75b6&style=flat" alt="amith07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amith07" alt="amith07" /></a> </p>
 
-- 🔭 I’m currently working on [Find N Hire](https://github.com/Find-N-Hire)
+- 🔭 I’m currently working on [Find N Hire](https://github.com/Find-N-Hire) and [Arka Productions](https://arka-productions.github.io)
 
-- 👨‍💻 All of my projects are available at [amith07.github.io](amith07.github.io)
+- 👨‍💻 My portfolio is available [here](https://amith07.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
